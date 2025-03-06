@@ -1,0 +1,4 @@
+openai
+toml
+streamlit
+youtube-transcript-api
